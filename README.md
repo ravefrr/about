@@ -2,8 +2,7 @@
 
 ## My script: discord.gg/WHpy6C39X4
 
-## Mainly coding in Lua
-
+# Mainly coding in Lua
 
 ## Contact:
 
