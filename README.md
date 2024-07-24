@@ -1,5 +1,7 @@
 # Developer ; Owner of Cloud Hub
 
+## My script: discord.gg/WHpy6C39X4
+
 ## Mainly coding in Lua
 
 
